@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on: Medicine Tracker, Zerodha Clone, and Market Price Tracker  
 - 🌱 I’m learning: MERN Stack, AI Tools, and Competitive Programming  
 - 🎯 Goal: To become a software engineer and contribute to impactful projects  
-- 📫 Reach me: [LinkedIn](#) | [Email](#)  
+- 📫 Reach me: https://www.linkedin.com/in/jasaswini-mohanty-302727289/ 
 
 ---
 
