@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on: Medicine Tracker, Zerodha Clone, and Market Price Tracker  
+- 🔭 I’m currently working on: Medicine Tracker, TradeNest , Cozycorners
 - 🌱 I’m learning: MERN Stack, AI Tools, and Competitive Programming  
 - 🎯 Goal: To become a software engineer and contribute to impactful projects  
 - 📫 Reach me: https://www.linkedin.com/in/jasaswini-mohanty-302727289/ 
