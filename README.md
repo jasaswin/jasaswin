@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jasaswini  
 
-💻 **Aspiring Developer | Open Source Enthusiast | Lifelong Learner**  
+💻 **Aspiring Developer **  
 
 ---
 
